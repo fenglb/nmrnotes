@@ -45,3 +45,12 @@
 [Lectures by James Keeler](http://www-keeler.ch.cam.ac.uk/lectures/)
 
 
+### MR spectroscopy Software
+
+[VeSPA](http://scion.duhs.duke.edu/vespa/) Versatile Simulation, Pulses, and Ananlys
+
+[GAMMA](http://scion.duhs.duke.edu/vespa/gamma) simulation of MR (NMR, MRS) experiments.
+
+[SpinDynamic](http://spindynamics.org/Home.php) Theoretical and Computational Spin Dynamics Group. Quantum dynamics of spin systems, Fundamental theory of NMR and ESR spectroscopy ...
+
+[Numerical simulation of NMR/NQR Spectra](http://www.profanderson.net/files/nmr_nqr.php)
