@@ -28,6 +28,8 @@
 
 [NMR Software Collection](http://www.spincore.com/nmrinfo/software_s.shtml) 
 
+[NMRlib](http://www.ibs.fr/research/scientific-output/software/pulse-sequence-tools/)
+
 #### Database
 
 [PDB](https://www.rcsb.org) Protein Data Bank archive information about the 3D shapes of proteins, nucleic acids, and complex assemblies.
