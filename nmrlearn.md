@@ -28,7 +28,15 @@
 
 [NMR Software Collection](http://www.spincore.com/nmrinfo/software_s.shtml) 
 
-[NMRlib](http://www.ibs.fr/research/scientific-output/software/pulse-sequence-tools/)
+[NMRlib](http://www.ibs.fr/research/scientific-output/software/pulse-sequence-tools/) a suite of jython-based tools designed for Bruker spectrometers (TopSpin 3.2-4.0) that allow data processing, visualization, and analysis, contains all the polarization-enhanced fast-pulsing NMR exp. ( SOFAST, BEST, HADAMAC).
+
+[ssNake](https://github.com/smeerten/ssnake) is a versatile tool for processing and analysing NMR spectra, focused on solid-state NMR. developed by Python and PyQt4.
+
+[nmrglue](https://www.nmrglue.com) is a module for working with NMR data in Python.
+
+[matnmr](http://matnmr.sourceforge.net) is a highly flexible toolbox for processing 1D and 2D NMR and EPR spectra under MATLAB, contains high-quality 1D, 2D or 3D plots output from spectra.
+
+[WINDNMR-Pro](www.chem.wisc.edu/area/reich/plt/windnmr.htm) is a Windows program for simulating high resolution NMR spectra.
 
 #### Database
 
